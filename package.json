@@ -1,0 +1,15 @@
+{
+  "name": "dssat-out-to-json-convert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lee Seungmin <lee@seungmin.io>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}

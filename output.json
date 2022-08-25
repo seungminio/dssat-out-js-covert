@@ -1,0 +1,704 @@
+[
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 1,
+      "TRNO": 1,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "DRYLAND  - 0 KG N/HA"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 7879,
+      "HWAM": 2926,
+      "HWAH": 2926,
+      "BWAH": "0",
+      "PWAM": 3393,
+      "HWUM": 247,
+      "H#AM": 1839,
+      "H#UM": 22.4,
+      "HIAM": 0.371
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": "0",
+      "IRCM": "0",
+      "PRCM": 600,
+      "ETCM": 430,
+      "EPCM": 194,
+      "ESCM": 236,
+      "ROCM": 12,
+      "DRCM": 112
+    },
+    "NITROGEN": {
+      "NI#M": 1,
+      "NICM": "0",
+      "NFXM": -99,
+      "NUCM": 78,
+      "NLCM": 125,
+      "NIAM": 55,
+      "NMINC": 85,
+      "CNAM": 69,
+      "GNAM": 56
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7843,
+      "ONAM": 7842,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 78995,
+      "OCAM": 8952,
+      "CO2EC": 2549
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 13.6,
+      "DMPEM": 19.1,
+      "DMPTM": 40.6,
+      "DMPIM": -99,
+      "YPPM": 5,
+      "YPEM": 7.1,
+      "YPTM": 15.1
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": -99,
+      "DPNUM": 101.1,
+      "YPNAM": -99
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 12.5,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  },
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 2,
+      "TRNO": 2,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "DRYLAND  - 60 KG N/HA"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 163,
+      "HWAM": 4214,
+      "HWAH": 4214,
+      "BWAH": "0",
+      "PWAM": 4722,
+      "HWUM": 286,
+      "H#AM": 4741,
+      "H#UM": 23.8,
+      "HIAM": 0.415
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": "0",
+      "IRCM": "0",
+      "PRCM": 600,
+      "ETCM": 434,
+      "EPCM": 215,
+      "ESCM": 219,
+      "ROCM": 13,
+      "DRCM": 107
+    },
+    "NITROGEN": {
+      "NI#M": 1,
+      "NICM": 60,
+      "NFXM": -99,
+      "NUCM": 106,
+      "NLCM": 130,
+      "NIAM": 79,
+      "NMINC": 85,
+      "CNAM": 95,
+      "GNAM": 80
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7843,
+      "ONAM": 7842,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 79001,
+      "OCAM": 8956,
+      "CO2EC": 2547
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 17.5,
+      "DMPEM": 24.4,
+      "DMPTM": 47.2,
+      "DMPIM": -99,
+      "YPPM": 7.3,
+      "YPEM": 10.1,
+      "YPTM": 19.6
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": 169.4,
+      "DPNUM": 95.5,
+      "YPNAM": 70.2
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 16.4,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  },
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 3,
+      "TRNO": 3,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "DRYLAND  - 180 KG N/HA SP"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 1175,
+      "HWAM": 4475,
+      "HWAH": 4475,
+      "BWAH": "0",
+      "PWAM": 4982,
+      "HWUM": 300,
+      "H#AM": 4915,
+      "H#UM": 23.7,
+      "HIAM": 0.4
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": "0",
+      "IRCM": "0",
+      "PRCM": 600,
+      "ETCM": 433,
+      "EPCM": 214,
+      "ESCM": 219,
+      "ROCM": 12,
+      "DRCM": 109
+    },
+    "NITROGEN": {
+      "NI#M": 2,
+      "NICM": 180,
+      "NFXM": -99,
+      "NUCM": 133,
+      "NLCM": 138,
+      "NIAM": 163,
+      "NMINC": 85,
+      "CNAM": 118,
+      "GNAM": 99
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7844,
+      "ONAM": 7842,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 79007,
+      "OCAM": 8959,
+      "CO2EC": 2544
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 19.3,
+      "DMPEM": 26.9,
+      "DMPTM": 52.3,
+      "DMPIM": -99,
+      "YPPM": 7.7,
+      "YPEM": 10.8,
+      "YPTM": 20.9
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": 62.1,
+      "DPNUM": 84.2,
+      "YPNAM": 24.9
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 15.6,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  },
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 4,
+      "TRNO": 4,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "IRRIGATED - 0 KG N/HA"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 5990,
+      "HWAM": 1681,
+      "HWAH": 1681,
+      "BWAH": "0",
+      "PWAM": 2088,
+      "HWUM": 167,
+      "H#AM": 72,
+      "H#UM": 21.3,
+      "HIAM": 0.281
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": 10,
+      "IRCM": 633,
+      "PRCM": 600,
+      "ETCM": 446,
+      "EPCM": 184,
+      "ESCM": 262,
+      "ROCM": 14,
+      "DRCM": 719
+    },
+    "NITROGEN": {
+      "NI#M": 1,
+      "NICM": "0",
+      "NFXM": -99,
+      "NUCM": 52,
+      "NLCM": 197,
+      "NIAM": 13,
+      "NMINC": 88,
+      "CNAM": 43,
+      "GNAM": 32
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7840,
+      "ONAM": 7839,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 78946,
+      "OCAM": 8903,
+      "CO2EC": 2598
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 10.3,
+      "DMPEM": 14,
+      "DMPTM": 32.6,
+      "DMPIM": 9.5,
+      "YPPM": 2.9,
+      "YPEM": 3.9,
+      "YPTM": 9.1
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": -99,
+      "DPNUM": 116,
+      "YPNAM": -99
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 28.6,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  },
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 5,
+      "TRNO": 5,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "IRRIGATED - 60 KG N/HA"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 7762,
+      "HWAM": 2212,
+      "HWAH": 2212,
+      "BWAH": "0",
+      "PWAM": 2710,
+      "HWUM": 164,
+      "H#AM": 3514,
+      "H#UM": 24.2,
+      "HIAM": 0.285
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": 10,
+      "IRCM": 633,
+      "PRCM": 600,
+      "ETCM": 449,
+      "EPCM": 205,
+      "ESCM": 244,
+      "ROCM": 14,
+      "DRCM": 719
+    },
+    "NITROGEN": {
+      "NI#M": 1,
+      "NICM": 60,
+      "NFXM": -99,
+      "NUCM": 67,
+      "NLCM": 238,
+      "NIAM": 13,
+      "NMINC": 88,
+      "CNAM": 56,
+      "GNAM": 42
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7840,
+      "ONAM": 7839,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 78948,
+      "OCAM": 8904,
+      "CO2EC": 2599
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 13.4,
+      "DMPEM": 18,
+      "DMPTM": 37.8,
+      "DMPIM": 12.3,
+      "YPPM": 3.8,
+      "YPEM": 5.1,
+      "YPTM": 10.8
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": 129.4,
+      "DPNUM": 116.7,
+      "YPNAM": 36.9
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 31.6,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  },
+  {
+    "IDENTIFIERS": {
+      "@": "",
+      "RUNNO": 6,
+      "TRNO": 6,
+      "R#": 1,
+      "O#": "0",
+      "P#": 1,
+      "CR": "WH",
+      "MODEL": "CSCER048"
+    },
+    "EXPERIMENT_AND_TREATMENT": {
+      "EXNAME": "KSAS8101",
+      "TNAM": "IRRIGATED 180 KG N/HA SPL"
+    },
+    "SITE_INFORMATION": {
+      "FNAM": "KSAS0001",
+      "WSTA": "KSAS8101",
+      "WYEAR": 1981,
+      "SOIL_ID": "IBWH980018",
+      "XLAT": 7.18,
+      "LONG": 9.75
+    },
+    "DATES": {
+      "SDAT": 1279,
+      "PDAT": 1289,
+      "EDAT": 1294,
+      "ADAT": 2141,
+      "MDAT": 2174,
+      "HDAT": 2174
+    },
+    "DRY_WEIGHT__YIELD_AND_YIELD_COMPONENTS": {
+      "DWAP": 46,
+      "CWAM": 9477,
+      "HWAM": 3161,
+      "HWAH": 3161,
+      "BWAH": "0",
+      "PWAM": 3678,
+      "HWUM": 205,
+      "H#AM": 5432,
+      "H#UM": 24.8,
+      "HIAM": 0.334
+    },
+    "FRESH_WEIGHT": {
+      "FCWAM": -99,
+      "FHWAM": -99,
+      "HWAHF": -99,
+      "FBWAH": -99
+    },
+    "WATER": {
+      "IR#M": 10,
+      "IRCM": 633,
+      "PRCM": 600,
+      "ETCM": 452,
+      "EPCM": 217,
+      "ESCM": 235,
+      "ROCM": 14,
+      "DRCM": 719
+    },
+    "NITROGEN": {
+      "NI#M": 2,
+      "NICM": 180,
+      "NFXM": -99,
+      "NUCM": 87,
+      "NLCM": 319,
+      "NIAM": 29,
+      "NMINC": 88,
+      "CNAM": 76,
+      "GNAM": 60
+    },
+    "PHOSPHORUS": {
+      "PI#M": -99,
+      "PICM": -99,
+      "PUPC": -99
+    },
+    "POTASSIUM": {
+      "KI#M": -99,
+      "KICM": -99,
+      "KUPC": -99
+    },
+    "ORGANIC_MATTER": {
+      "RECM": "0",
+      "ONTAM": 7840,
+      "ONAM": 7839,
+      "OPTAM": "0",
+      "OPAM": "0",
+      "OCTAM": 78952,
+      "OCAM": 8907,
+      "CO2EC": 2597
+    },
+    "WATER_PRODUCTIVITY": {
+      "DMPPM": 16.3,
+      "DMPEM": 21.8,
+      "DMPTM": 43.7,
+      "DMPIM": 15,
+      "YPPM": 5.5,
+      "YPEM": 7.3,
+      "YPTM": 14.6
+    },
+    "NITROGEN_PRODUCTIVITY": {
+      "DPNAM": 52.7,
+      "DPNUM": 108.8,
+      "YPNAM": 17.6
+    },
+    "SEASONAL_ENVIRONMENTAL_DATA__Planting_to_harvest_": {
+      "NDCH": 245,
+      "TMAXA": 13.1,
+      "TMINA": 1.2,
+      "SRADA": 12.4,
+      "DAYLA": 12.6,
+      "CO2A": 40.7,
+      "PRCP": 79.8,
+      "ETCP": 34.9,
+      "ESCP": -99,
+      "EPCP": -99
+    }
+  }
+]
